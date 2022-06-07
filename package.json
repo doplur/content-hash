@@ -18,6 +18,7 @@
   "author": "pldespaigne",
   "license": "ISC",
   "dependencies": {
+    "buffer": "^6.0.3",
     "cids": "^1.1.5",
     "js-base64": "^3.6.0",
     "multicodec": "^3.2.0",
